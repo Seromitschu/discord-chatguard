@@ -7,7 +7,7 @@
 
 **This project was built using these technologies.**
 <br>
-> - JavaScript <br> **Languages ​​were used while making this website.**
+> - JavaScript <br> **Languages ​​were used while making this bot.**
 > - Visual Studio Code <br>**Code Editor**
 
 
