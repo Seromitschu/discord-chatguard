@@ -77,16 +77,16 @@ _**Don't forget to give bot admin authorisation! If you do not, the bot cannot d
 
 <img style="border-radius: 8px; width: 500px" src="_ASSETS/demo.gif" alt="Demo"/>
 <br><br>
-<img style="width: 50px" src="_ASSETS/Emojis/dot.png" alt="Dot">
-<img style="width: 50px" src="_ASSETS/Emojis/chat_guard.png" alt="ChatGuard">
-<img style="width: 50px" src="_ASSETS/Emojis/checkmark.png" alt="Checkmark">
-<img style="width: 50px" src="_ASSETS/Emojis/crossmark.png" alt="Crossmark">
-<img style="width: 50px" src="_ASSETS/Emojis/leaf.png" alt="Leaf">
-<img style="width: 50px" src="_ASSETS/Emojis/members.png" alt="Members">
-<img style="width: 50px" src="_ASSETS/Emojis/owner.png" alt="Owner">
-<img style="width: 50px" src="_ASSETS/Emojis/punishment.png" alt="Punishment">
-<img style="width: 50px" src="_ASSETS/Emojis/stats.png" alt="Stats">
-<img style="width: 50px" src="_ASSETS/Emojis/warning.png" alt="Warning">
-<img style="width: 50px" src="_ASSETS/Emojis/website.png" alt="Website">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/dot.png" alt="Dot">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/chat_guard.png" alt="ChatGuard">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/checkmark.png" alt="Checkmark">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/crossmark.png" alt="Crossmark">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/leaf.png" alt="Leaf">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/members.png" alt="Members">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/owner.png" alt="Owner">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/punishment.png" alt="Punishment">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/stats.png" alt="Stats">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/warning.png" alt="Warning">
+<img style="float: left; width: 50px" src="_ASSETS/Emojis/website.png" alt="Website">
 
 <h2>Don't forget to give a ⭐ if you like the project!</h2>
