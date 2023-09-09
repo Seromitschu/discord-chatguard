@@ -53,7 +53,7 @@ _**Don't forget to give bot admin authorisation! If you do not, the bot cannot d
 > After activating the bot, we write ``/setup`` on the server where the bot will be used. Thanks to the slash command, we select the authorisation and log channel that will not be affected by the chat guard. 
 
 <img style="border-radius: 8px; width: 500px" src="_ASSETS/setup.gif" alt="SetUp"/>
-<br><br>
+<br>
 
 <h3>Warning, Notification and Punishment of Violations</h3>
 
