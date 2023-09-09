@@ -1,0 +1,18 @@
+{
+    "APP": {
+        "TOKEN": "",
+        "CLIENTID": "",
+        "OWNERID": ""
+    },
+
+    "ACTIVITY": {
+        "TEXT": "",
+        "STATUS": ""
+    },
+
+    "DATABASE": {
+        "URL": ""
+    },
+
+    "WEBHOOK": ""
+}

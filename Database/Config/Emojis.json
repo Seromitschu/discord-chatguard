@@ -1,0 +1,14 @@
+{
+    "CHECKMARK": "checkmark emoji",
+    "CROSSMARK": "crossmark emoji",
+    "GUARD": "chat_guard emoji",
+    "MUTE": "punishment emoji",
+    "KICK": "punishment emoji",
+    "WARN": "warn emoji",
+    "DOT": "dot emoji",
+    "LEAF": "leaf emoji",
+    "MEMBERS": "members emoji",
+    "WEBSITE": "website emoji",
+    "STATS": "stats emoji",
+    "OWNER": "owner emoji"
+}

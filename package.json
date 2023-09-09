@@ -1,0 +1,15 @@
+{
+  "name": "seromitschu-cheaters",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "node Main.js"
+  },
+  "author": "Seromitschu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "mongoose": "^7.5.0"
+  }
+}
