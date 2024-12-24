@@ -10,6 +10,8 @@ const client = new Client({
   ],
 });
 
+
+///// WEBHOOK
 const webhookUrl = `${AppConfig.WEBHOOK}`;
 handleErrors(client, webhookUrl);
 
