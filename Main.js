@@ -15,6 +15,8 @@ handleErrors(client, webhookUrl);
 
 client.commands = new Collection();
 
+
+///// READ FUNCTIONS AND EVENTS
 const functions = fs
   .readdirSync("./Global/Functions")
   .filter((file) => file.endsWith(".js"));
