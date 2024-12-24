@@ -30,3 +30,8 @@ const commandFolders = fs.readdirSync("./Global/Commands");
   client.handleCommands(commandFolders, "./Global/Commands");
   client.login(AppConfig.APP.TOKEN);
 })();
+
+
+
+
+/////// Made by Seromitschu Samsun/Turkey 
