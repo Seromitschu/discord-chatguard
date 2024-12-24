@@ -1,18 +1,20 @@
 {
     "APP": {
-        "TOKEN": "",
-        "CLIENTID": "",
-        "OWNERID": ""
+        "TOKEN": "TOKEN",
+        "CLIENTID": "CLIENTID",
+        "OWNERID": "OWNERID"
     },
 
     "ACTIVITY": {
-        "TEXT": "",
-        "STATUS": ""
+        "TEXT": "Seromitschu",
+        "STATUS": "idle"
     },
 
     "DATABASE": {
-        "URL": ""
+        "URL": "MONGODB DATABASE URL"
     },
 
-    "WEBHOOK": ""
+    "WEBHOOK": "DISCORD ERROR CHANNEL WEBHOOK"
 }
+
+///// 
