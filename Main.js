@@ -9,13 +9,13 @@ const client = new Client({
     GatewayIntentBits.MessageContent,
   ],
 });
+
 ///// WEBHOOK
 const webhookUrl = `${AppConfig.WEBHOOK}`;
 handleErrors(client, webhookUrl);
+
 client.commands = new Collection();
-{
-"Hackerız diye her şeyi çalar sanıyorlar ama  ben daha çalınan kalbimi geri almasını        bilmiyorum onunkini nasıl çalayım"
-} 
+ 
 ///// READ FUNCTIONS AND EVENTS
 const functions = fs
   .readdirSync("./Global/Functions")
@@ -32,4 +32,5 @@ const commandFolders = fs.readdirSync("./Global/Commands");
   client.handleCommands(commandFolders, "./Global/Commands");
   client.login(AppConfig.APP.TOKEN);
 })();
+
 /////// Made by Seromitschu Samsun/Turkey 
