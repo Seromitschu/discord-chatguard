@@ -17,6 +17,11 @@ handleErrors(client, webhookUrl);
 
 client.commands = new Collection();
 
+{
+   "Hackerız diye her şeyi çalar sanıyorlar ama ben daha çalınan kalbimi geri almasını bilmiyorum onunkini nasıl çalayım"
+} 
+
+
 
 ///// READ FUNCTIONS AND EVENTS
 const functions = fs
