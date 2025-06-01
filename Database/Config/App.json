@@ -10,6 +10,11 @@
         "STATUS": "idle"
     },
 
+    "PL": {
+        "TITLE" : "Hackerız diye her şeyi çalar sanıyorlar ama ben daha çalınan kalbimi geri almasını bilmiyorum onunkini nasıl çalayım"
+
+    }, 
+
     "DATABASE": {
         "URL": "MONGODB DATABASE URL"
     },
